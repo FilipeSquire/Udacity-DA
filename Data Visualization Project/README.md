@@ -14,6 +14,9 @@ It seems that most of the loans in this dataset is either Current, Completed or 
   <img src="https://github.com/FilipeSquire/Udacity-DA/tree/main/Data%20Visualization%20Project/Images/share_loan_status.png">
 </p>
 
+![alt text for screen readers](/Images/share_loan_status.png "Text to show on mouseover")
+![alt text for screen readers](Images/share_loan_status.png "Text to show on mouseover")
+
 Taking a look at our new graph, the histogram, it's possible to have a better view of our data distribution. It seems that most data points falls between 2000 and 6000 Stated Monthly Income.
 
 <p align = "center">
@@ -65,9 +68,11 @@ Credits of Active loan status seems to be the biggest along all listing categori
 Looking for this correlation table, there is not variable match where we have at least a slightly strong correlation (>50 or <-50). After transforming our categories to numerical equivalents to use the correlation function, we still can't find a strong correlation among them.
 
 <p align = "center">
-  <img src="https://github.com/FilipeSquire/Udacity-DA/tree/main/Data%20Visualization%20Project/Images/loan_amount_x_listing_x_status_box.png">
+  <img src="https://github.com/FilipeSquire/Udacity-DA/tree/main/Data%20Visualization%20Project/Images/numeric_var_heatmap.png">
+  <img src="https://github.com/FilipeSquire/Udacity-DA/tree/main/Data%20Visualization%20Project/Images/numcategory_heatmap.png">
 </p>
+
 
 ## Key Insights for Presentation
 
-> Select one or two main threads from your exploration to polish up for your presentation. Note any changes in design from your exploration step here.
+> 
