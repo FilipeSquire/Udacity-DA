@@ -14,7 +14,7 @@ It seems that most of the loans in this dataset is either Current, Completed or 
 
 Taking a look at our new graph, the histogram, it's possible to have a better view of our data distribution. It seems that most data points falls between 2000 and 6000 Stated Monthly Income.
 
-![alt text for screen readers](Images/montlhy_income_hist.png "Text to show on mouseover")
+![alt text for screen readers](Images/monthly_income_hist.png "Text to show on mouseover")
 
 The biggest group is Employed followed by full-time, self-employed and Other. It seems that this column might be wrongly named. A very small part is considered Retired or not employed, and the rest of the categories are actually types of employments. Therefore despite for retired and not employed, all the others are Employed but with different kinds of employment.
 
@@ -52,4 +52,4 @@ Looking for this correlation table, there is not variable match where we have at
 
 ## Key Insights for Presentation
 
-> 
+I have prioritize mainly boxplots, barplots and histograms because I wanted to always have in mind the distributions of our data. Throughout these graphs I wanted to tell an story going from through a variety of graphs and correlations, coming up with doubts in the way, and at the end opening up an opportunity for future deeper analysis, specifically when I talk about the correlations.
